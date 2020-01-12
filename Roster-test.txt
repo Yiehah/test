@@ -1,0 +1,67 @@
+Baltimore Ravens, BAL
+END_PLAYERS
+Cleveland Browns, CLE
+END_PLAYERS
+Cincinnati Bengals, CIN
+END_PLAYERS
+Pittsburgh Steelers, PIT
+END_PLAYERS
+Buffalo Bills, BUF
+END_PLAYERS
+New England Patriots, NE
+RB,James Fulton,21,2016,99,91,96,84,86,80,3.5,17
+QB,Brody Walker,20,2016,99,99,99,87,93,84,8.5,20
+WR,Tom Allen,21,2016,99,92,98,87,84,82,3.5,18
+END_PLAYERS
+Miami Dolphins, MIA
+END_PLAYERS
+New York Jets, NYJ
+END_PLAYERS
+Tennessee Titans, TEN
+END_PLAYERS
+Jacksonville Jaguars, JAX
+END_PLAYERS
+Houston Texans, HOU
+END_PLAYERS
+Indianapolis Colts, IND
+END_PLAYERS
+Kansas City Chiefs, KAN
+END_PLAYERS
+Denver Broncos, DEN
+END_PLAYERS
+Los Angeles Chargers, LAC
+END_PLAYERS
+Oakland Raiders, OAK
+END_PLAYERS
+Chicago Bears, CHI
+END_PLAYERS
+Green Bay Packers, GB
+END_PLAYERS
+Minnesota Vikings, MIN
+END_PLAYERS
+Detroit Lions, DET
+END_PLAYERS
+Washington Redskins, WAS
+END_PLAYERS
+Dallas Cowboys, DAL
+END_PLAYERS
+Philadelphia Eagles, PHI
+END_PLAYERS
+New York Giants, NYG
+END_PLAYERS
+New Orleans Saints, NO
+END_PLAYERS
+Carolina Panthers, CAR
+END_PLAYERS
+Tampa Bay Buccaneers, TB
+END_PLAYERS
+Atlanta Falcons, ATL
+END_PLAYERS
+Los Angeles Rams, LAR
+END_PLAYERS
+Seattle Seahawks, SEA
+END_PLAYERS
+San Francisco 49ers, SF
+END_PLAYERS
+Arizona Cardinals, ARZ
+END_PLAYERS
