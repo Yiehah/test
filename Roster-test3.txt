@@ -1,0 +1,5 @@
+New England Patriots, NE
+RB,James Fulton,21,2016,99,91,96,84,86,80,3.5,17
+QB,Brody Walker,20,2016,99,99,99,87,93,84,8.5,20
+WR,Tom Allen,21,2016,99,92,98,87,84,82,3.5,18
+END_PLAYERS
