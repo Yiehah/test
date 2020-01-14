@@ -338,7 +338,7 @@ New England Patriots,NE
 QB,Brody Walker,17,2016,99,99,99,94,99,92,7.0,23
 RB,James Fulton,18,2016,99,99,99,86,88,83,2.5,23
 WR,Tom Allen,18,2016,99,99,99,89,87,84,2.5,23
-OL,Ralf Kirchbauer,18,2016,99,99,99,88,92,93,2,5,23
+OL,Ralf Kirchbauer,18,2016,99,99,99,88,92,93,2.5,23
 OL,Sebastian Vollmer,31,2009,82,88,78,92,84,93,4.2,4
 OL,Cameron Fleming,23,2014,77,65,93,85,83,73,0.6,1
 OL,Jonathan Cooper,26,2013,102,64,79,88,78,81,3.6,4
